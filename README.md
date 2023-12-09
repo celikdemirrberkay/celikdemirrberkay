@@ -2,7 +2,7 @@
 <h3 align="center">Student</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"
 
-- 🌱 I’m currently working on **Flutter**
+- 🌱 Mobile Developer
 
 - 📫 How to reach me **berkaycelikdemirr@gmail.com**
 
